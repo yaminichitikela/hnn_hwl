@@ -1,0 +1,10 @@
+{
+  "order": 6,
+  "feat_dim": 2,
+  "pool_size": 20,
+  "num_layers": 6,
+  "base_family_size": 20,
+  "twin_partner_pos": 0,
+  "natural_collision_found": false,
+  "seed": 6
+}
